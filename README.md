@@ -1,15 +1,15 @@
 # FLY HIGH
 
-The place for RC drone, airplane and car electronics
+A place for RC drone, airplane and car electronics
 
 ## Fly High F722 Flight Controller
 
 ### Pictures
 
 Top View
-![resources](BF-FC-F722-TOP.png)
+![Screenshots](resources/BF-FC-F722-TOP.png)
 Bottom View
-![resources](BF-FC-F722-BOTTOM.png)
+![Screenshots](resources/BF-FC-F722-BOTTOM.png)
 
 ### Specifications
 
