@@ -2,16 +2,16 @@
 
 # FLY HIGH
 
-A place for RC drone, airplane and car electronics
+A place for RC drones, airplanes and cars electronics
 
 ## Fly High F722 Flight Controller
 
 ### Pictures
 
 Top View
-![Screenshots](resources/BF-FC-F722-TOP.png)
+![F722TopView](resources/BF-FC-F722-TOP.png)
 Bottom View
-![Screenshots](resources/BF-FC-F722-BOTTOM.png)
+![F722BottomView](resources/BF-FC-F722-BOTTOM.png)
 
 ### Specifications
 
@@ -21,7 +21,7 @@ Bottom View
 	- 5 V @ 2.5 A
 	- 9 V @ 3 A, controlled from PINIO
 	- 3.3 V @ 500 mA
-- Accelerometer and gyro: ICM-42688-P
+- Accelerometer and gyroscope: ICM-42688-P
 - Barometer: BMP280 barometer
 - Connectors: GPS and compass, camera, HD VTX, analog VTX, Buzzer, LED strips
 - Blackbox: 128 MB SD card chip onboard
