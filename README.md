@@ -1,3 +1,5 @@
+![logo](resources/logo-flyhigh.svg)
+
 # FLY HIGH
 
 A place for RC drone, airplane and car electronics
